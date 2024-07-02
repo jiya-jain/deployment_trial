@@ -1,0 +1,19 @@
+#image{
+    text-align: center;
+    /* display:inline-block; */
+    border: 2px solid black;
+    /*  */
+}
+#headings{
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+#edits{
+        text-align: center;
+}
+#img{
+    text-align: center;
+    display: inline-block;
+    border:2px solid black;
+    margin-left: 430px;
+}
